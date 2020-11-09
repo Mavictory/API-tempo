@@ -2,9 +2,10 @@
 
 This repo shows a useage example of tempo-api-python-client library by [stanislavulrych](https://github.com/stanislavulrych).
 
-The library is intended to simplify the usage and interactions with Tempo timeshits. 
+The library is intended to simplify the usage and interactions with Tempo timesheets. 
 To access the library documentation click [here](https://github.com/stanislavulrych/tempo-api-python-client).
 
+# Explanation
 
 The current example uses the get_worklogs method to get tempo timesheets and then uses the method get_team_members to get the employees from a team.
 
@@ -17,7 +18,7 @@ pip install tempo-api-python-client
 ```
 Then download this repo to try out the example.
 
-# Usage 
+# Library usage 
 
 In order to use the tempo api you'll need your Atlassian api key. 
 ```bash
